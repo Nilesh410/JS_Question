@@ -2,3 +2,4 @@
 let x=10
 console.log(x)
 console.log(typeof(x))
+console.log(x+2)
