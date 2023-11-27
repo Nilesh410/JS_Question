@@ -5,3 +5,4 @@ console.log(trees,"\n","size of array:",trees.length)
 delete trees[3];
 console.log(trees,"\n","size of array:",trees.length)
 //delete operator just deinitialized the array element 
+console.log("nilesh")
