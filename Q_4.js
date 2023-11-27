@@ -9,7 +9,7 @@ Variable declared in its parent function's scope
 Variable declared in the global namespace
 */
 //use self invoking function 
-
+//immediately-invoked function expression (IIFE) 
 var global_variable=10
 
 (function outer_fun(outer_fun_argument){
